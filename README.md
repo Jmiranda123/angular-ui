@@ -1,10 +1,16 @@
-# AngularUi
+# Angular UI
+
+## Installing Node.js
+
+Check README.md from https://github.com/Jmiranda123/node-api-postgre to see how to install it.
+
+## Install Angular CLI
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.4.
 
 ## Installing dependencies
 
-Run `npm install` (You need to have node.js in your machine, check README.md from https://github.com/Jmiranda123/node-api-postgre to see how to install it).
+Run `npm install` inside the project folder.
 
 ## Development server
 
